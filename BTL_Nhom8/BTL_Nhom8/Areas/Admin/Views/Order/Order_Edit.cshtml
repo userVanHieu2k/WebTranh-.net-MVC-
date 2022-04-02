@@ -1,0 +1,94 @@
+﻿@model BTL_Nhom8.Areas.Admin.Dto.OrderDto
+@{
+    ViewBag.Title = "Order_Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="pcoded-content">
+    <div class="pcoded-inner-content">
+        <div class="main-body">
+            <div class="page-wrapper">
+                <h1 class="h3 text-gray-800">Chi tiết đơn hàng</h1>
+
+                <div class="panel-body mb-4">
+                    <a href="@Url.Action("Index", "Order")" class="btn btn-primary a-btn-slide-text">
+                        <i class="fas fa-arrow-circle-left"></i> <strong>Trở lại</strong>
+                    </a>
+                </div>
+                <div class="page-body">
+                    @using (Html.BeginForm("Order_Edit", "Order", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-horizontal">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <input type="hidden" name="Order_Id" value="@Model.Order_Id" />
+                            <div class="form-row">
+                                <div class="form-group col-md-6">
+                                    <label for="customerName">Tên khách hàng</label> <input type="text"
+                                                                                            class="form-control" id="customerName"
+                                                                                            name="Customer_Name"
+                                                                                            value="@Model.Customer_Name" readonly="readonly">
+                                </div>
+                                <div class="form-group col-md-6">
+                                    <label for="customerPhone">Số điện thoại</label> <input type="tel"
+                                                                                            class="form-control" id="customerPhone"
+                                                                                            name="Customer_Phone"
+                                                                                            value="@Model.Customer_Phone">
+                                    @Html.ValidationMessageFor(model => Model.Customer_Phone, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="inputEmail4">Email</label> <input type="email"
+                                                                              class="form-control" id="inputEmail4"
+                                                                              name="Customer_Email"
+                                                                              value="@Model.Customer_Email" readonly="readonly">
+                            </div>
+                            <div class="form-group">
+                                <label for="inputAddress">Địa Chỉ</label> <input type="text"
+                                                                                 class="form-control" id="inputAddress"
+                                                                                 name="Customer_Address"
+                                                                                 value="@Model.Customer_Address">
+                                @Html.ValidationMessageFor(model => Model.Customer_Address, "", new { @class = "text-danger" })
+                            </div>
+
+
+                            <div class="form-group">
+                                <label for="inputOrderDate">Ngày tạo</label> <input type="datetime"
+                                                                                    class="form-control" id="inputOrderDate"
+                                                                                    name="Order_Date"
+                                                                                    value="@Model.Order_Date" readonly="readonly">
+                            </div>
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.Status, "Trạng thái", htmlAttributes: new { @class = "control-label col-md-2" })
+                            </div>
+                            <select name="Status" class="form-control" aria-label="Default select example">
+                                <option>Chọn trạng thái đơn hàng</option>
+                                <option value="false">Đang chờ xử lý</option>
+                                <option value="true">Đã thanh toán</option>
+                            </select>
+                            @Html.ValidationMessageFor(model => Model.Status, "", new { @class = "text-danger" })
+
+                            <div class="form-group">
+                                <div class="mt-3">
+                                    <button type="submit" class="btn btn-warning">Sửa</button>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                    </div>
+            </div>
+
+            <div id="styleSelector">
+
+            </div>
+        </div>
+    </div>
+</div>
+@if (ViewBag.Error != null)
+{
+    <br />
+    <div class="alter alert-danger" role="alert">@ViewBag.Error</div>
+}

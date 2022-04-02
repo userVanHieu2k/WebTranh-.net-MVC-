@@ -1,0 +1,103 @@
+﻿@using PagedList.Mvc;
+@model PagedList.IPagedList<BTL_Nhom8.Models.Product>
+    <link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{ ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml"; }
+<div class="pcoded-content">
+    <div class="pcoded-inner-content">
+        <div class="main-body">
+            <div class="page-wrapper">
+                <h3 class="right__title">Danh sách sản phẩm</h3>
+                <br>
+                <div class="page-body">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Trang chủ</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">
+                                <a href="@Url.Action("Index", "Product")">Danh sách sản phẩm</a>
+                            </li>
+                        </ol>
+                    </nav>
+                    <div>
+                        <a class="btn btn-outline-primary mb-1" href="@Url.Action("Add_Product", "Product")" role="button">
+                            Thêm mới
+                        </a>
+                        @using (Html.BeginForm("Index", "Product", FormMethod.Get, htmlAttributes: new { @style = "margin-left:750px;margin-bottom:-2px;" }))
+                        {
+                            <p style="display:flex">
+                                <input type="text" name="searchString" value="@ViewBag.currentFilter" style="line-height:26px;margin-right:5px;" />
+                                <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+                            </p>
+                        }
+                    </div>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">STT</th>
+                                <th scope="col">
+                                    @Html.ActionLink("Tên", "Index", new { sortOrder = ViewBag.SortByName, currentFilter = ViewBag.currentFilter })
+                                </th>
+                                <th scope="col">Ảnh</th>
+                                <th scope="col">@Html.ActionLink("Đơn giá", "Index", new { sortOrder = ViewBag.SortByPrice, currentFilter = ViewBag.currentFilter })</th>
+                                <th scope="col">Số lượng</th>
+                                <th scope="col">Danh mục</th>
+                                <th scope="col">Trạng thái</th>
+                                <th scope="col">Hành động</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{int i = 0;}
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <th scope="row">
+                                        @(i + 10*(Model.PageNumber-1) + 1)
+                                    </th>
+                                    @{ i++; }
+                                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                                    <td>
+                                        @{ string ImagePath = "~/wwwroot/img/Images/" + item.Avatar; }
+                                        <img src="@Url.Content(ImagePath)" width="100" height="100" class="img-thumbnail" />
+                                        <br />
+                                        @*@Html.DisplayFor(modelItem => item.Avatar)*@
+                                    </td>
+                                    <td>@Html.DisplayFor(modelItem => item.Price)</td>
+                                    <td>@Html.DisplayFor(modelItem => item.Quantity)</td>
+                                    <td>@Html.DisplayFor(modelItem => item.Category.Name)</td>
+
+                                    <td>
+                                        <span id="_product_status_${product.id} }">
+                                            <c:choose>
+                                                <c:when test="${product.status }">
+                                                    <span class="badge badge-primary">Active</span>
+                                                </c:when>
+                                                <c:otherwise>
+                                                    <span class="badge badge-warning">InActive</span>
+                                                </c:otherwise>
+                                            </c:choose>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-primary" href="@Url.Action("Edit_Product", "Product", new { id=item.Product_Id })" role="button"
+                                           style="line-height: 10px;">Sửa</a>
+                                        <button class="btn btn-danger deleteProduct" role="button"
+                                                style="line-height: 10px;" id="@item.Product_Id">
+                                            Xóa
+                                        </button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <br />
+                    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, currentFilter = ViewBag.currentFilter, sortOrder = ViewBag.CurrentSort }))
+                </div>
+            </div>
+            
+           <div id="styleSelector">
+            </div>
+        </div>
+    </div>
+</div>
+

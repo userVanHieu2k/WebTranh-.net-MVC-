@@ -1,0 +1,111 @@
+﻿@model BTL_Nhom8.Dto.Cart
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- ##### Breadcrumb Area Start ##### -->
+<div class="breadcrumb-area">
+    <!-- Top Breadcrumb Area -->
+    <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(/wwwroot/img/bg-img/24.jpg);">
+        <h2>Thủ tục thanh toán</h2>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")"><i class="fa fa-home"></i> Trang chủ</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Thủ tục thanh toán</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ##### Breadcrumb Area End ##### -->
+<!-- ##### Checkout Area Start ##### -->
+<div class="checkout_area mb-100">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-12 col-lg-7">
+                <div class="checkout_details_area clearfix">
+                    <h5>Chi tiết thanh toán</h5>
+                    @using (Html.BeginForm("Final_Checkout", "Checkout", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="form-horizontal">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <div class="row">
+                                <div class="col-12 mb-4">
+                                    <label for="email_address">Địa chỉ email *</label>
+                                    <input type="email" class="form-control" name="Email" id="email_address" value="@Model.customerDto.Email" readonly="readonly">
+                                </div>
+
+                                <div class="col-12 mb-4">
+                                    <label for="customers">Tên khách hàng *</label>
+                                    <input type="text" class="form-control" name="Customer_Name" id="customers" value="@Model.customerDto.Customer_Name" readonly="readonly">
+                                </div>
+
+                                <div class="col-12 mb-4">
+                                    <label for="tel">Số điện thoại *</label>
+                                    <input type="text" class="form-control" name="Telephone" id="tel" value="@Model.customerDto.Telephone" required>
+                                    @Html.ValidationMessageFor(model => Model.customerDto.Telephone, "", new { @class = "text-danger" })
+                                </div>
+
+                                <div class="col-12 mb-4">
+                                    <label for="company">Địa chỉ *</label>
+                                    <input type="text" class="form-control" name="Address" id="company" value="@Model.customerDto.Address" required>
+                                    @Html.ValidationMessageFor(model => Model.customerDto.Address, "", new { @class = "text-danger"})
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="mt-3">
+                                    <button type="submit" class="btn btn-warning">Đặt hàng</button>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <div class="col-12 col-lg-4">
+                <div class="checkout-content">
+                    <h5 class="title--">Đơn hàng của bạn</h5>
+                    <div class="products">
+                        <div class="products-data">
+                            <h5>Các sản phẩm:</h5>
+                            @{ var price = "";}
+                            @foreach (var item in Model.cartLines)
+                            {
+                                <div class="single-products d-flex justify-content-between align-items-center">
+
+                                    <p>@item.productDto.Name</p>
+                                    <h5>@{price = Convert.ToDecimal(item.productDto.Price).ToString("#,#");}@price</h5>
+
+
+                                </div>
+                            }
+                        </div>
+                    </div>
+                    <div class="subtotal d-flex justify-content-between align-items-center">
+                        <h5>Tổng loại hàng:</h5>
+                        <h5>@(Model.cartLines.Count())</h5>
+                    </div>
+                    <div class="subtotal d-flex justify-content-between align-items-center">
+                        <h5>Tổng số lượng sản phẩm mua</h5>
+                        <h5>@(Model.cartLines.Sum(x=>x.quantity))</h5>
+                    </div>
+
+                    <div class="order-total d-flex justify-content-between align-items-center">
+                        <h5>Tổng hóa đơn</h5>
+                        @{price = Convert.ToDecimal(Model.cartLines.Sum(item => item.getAmount())).ToString("#,# VNĐ"); }
+                        <h5>@price</h5>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ##### Checkout Area End ##### -->

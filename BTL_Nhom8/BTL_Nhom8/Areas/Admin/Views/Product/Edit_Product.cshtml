@@ -1,0 +1,139 @@
+﻿@model BTL_Nhom8.Models.Product
+@{ ViewBag.Title = "Edit_Product";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml"; }
+<div class="pcoded-content">
+    <div class="pcoded-inner-content">
+        <div class="main-body">
+            <div class="page-wrapper">
+                <h3 class="right__title">Sửa sản phẩm</h3>
+                <br>
+                <div class="page-body">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Trang chủ</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">
+                                Sửa sản phẩm
+                            </li>
+                        </ol>
+                    </nav>
+                    @using (Html.BeginForm("Edit_Product", "Product", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+
+                        @Html.AntiForgeryToken()
+                        <div class="form-horizontal">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                            <input type="hidden" value="@Model.Product_Id" name="Product_Id"/>
+                            <div class="form-group">
+                                <label for="category">Danh mục (required)</label>
+                                @Html.DropDownList("Category_Id", null, htmlAttributes: new { @class = "form-control", @name = "Category_Id" })
+                                @Html.ValidationMessageFor(model => model.Category_Id, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <label for="title">Tên sản phẩm (required)</label>
+
+                                @Html.TextBoxFor(model => model.Name, htmlAttributes: new
+                                {
+                                    @class = "form-control",
+                                    @autocomplete = "off",
+                                    @type = "text",
+                                    @id = "title",
+                                    @placeholder = "Tiêu đề",
+                                    @name = "Name"
+                                })
+                                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <label for="price">Gía (required)</label>
+
+                                @Html.TextBoxFor(model => model.Price, htmlAttributes: new
+                                {
+                                    @class = "form-control",
+                                    @autocomplete = "off",
+                                    @type = "number",
+                                    @id = "price",
+                                    @placeholder = "Giá",
+                                    @name = "Price"
+                                })
+                                @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <label for="priceSale">Số lượng (required)</label>
+
+                                @Html.TextBoxFor(model => model.Quantity, htmlAttributes: new
+                           {
+                               @class = "form-control",
+                               @autocomplete = "off",
+                               @type = "number",
+                               @id = "priceSale",
+                               @placeholder = "Số lượng",
+                               @name = "Quantity"
+                           })
+                                @Html.ValidationMessageFor(model => model.Quantity, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <label for="short_description">Mô tả ngắn (required)</label>
+
+                                @Html.TextAreaFor(model => model.Short_Description, htmlAttributes: new
+                           {
+                               @class = "form-control",
+                               @autocomplete = "off",
+                               @rows = "3",
+                               @id = "short_description",
+                               @placeholder = "Mô tả ngắn",
+                               @name = "Short_Description"
+                           })
+                                @Html.ValidationMessageFor(model => model.Short_Description, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <label for="detail_description">Mô tả (required)</label>
+
+                                @Html.TextAreaFor(model => model.Detail_Description, htmlAttributes: new
+                                {
+                                    @class = "form-control",
+                                    @autocomplete = "off",
+                                    @rows = "3",
+                                    @id = "detail_description",
+                                    @placeholder = "Mô tả chi tiết",
+                                    @name = "Detail_Description"
+
+                                })
+                                @Html.ValidationMessageFor(model => model.Detail_Description, "", new { @class = "text-danger" })
+                            </div>
+
+                            <div class="form-group">
+                                <label for="fileProductAvatar">Ảnh</label>
+
+                            </div>
+                            <div class="form-group">
+                                <img src="~/wwwroot/img/Images/@Model.Avatar" id="output" class="img-rounded" alt="Anh" width="150" height="100" />
+                                <p><label for="ufile" style="cursor: pointer">Chọn file ảnh</label></p>
+                                <input name="ImageFile" value="abc" id="ufile" type="file" style="display: none;" onchange="loadFile(event)" />
+                                <input type="hidden" name="Avatar" value="123" />
+                            </div>
+                            <a href="@Url.Action("Index", "Product")" class="btn btn-secondary active"
+                               role="button" aria-pressed="true">Trở lại</a>
+                            <button type="submit" class="btn btn-primary">Lưu</button>
+                        </div>
+                    }
+                </div>
+            </div>
+
+            <div id="styleSelector">
+
+            </div>
+        </div>
+    </div>
+</div>
+@if (ViewBag.Error != null)
+{
+    <br />
+    <div class="alert alert-danger" role="alert">@ViewBag.Error</div>}
+<script>
+    var loadFile = function (event) {
+        var image = document.getElementById('output');
+        image.src = URL.createObjectURL(event.target.files[0]);
+    };
+</script>
+
+

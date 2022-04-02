@@ -1,0 +1,204 @@
+﻿@using PagedList.Mvc;
+@model PagedList.IPagedList<BTL_Nhom8.Models.Product>
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Shop";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<!-- ##### Breadcrumb Area Start ##### -->
+<div class="breadcrumb-area">
+    <!-- Top Breadcrumb Area -->
+    <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center"
+         style="background-image: url(/wwwroot/img/bg-img/24.jpg);">
+        <h2>Sản phẩm</h2>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")"><i class="fa fa-home"></i> Trang chủ</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Cửa hàng</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ##### Breadcrumb Area End ##### -->
+<!-- ##### Shop Area Start ##### -->
+<section class="shop-page section-padding-0-100">
+    <div class="container">
+        <div class="row">
+            <!-- Shop Sorting Data -->
+            <div class="col-12">
+                <div class="shop-sorting-data d-flex flex-wrap align-items-center justify-content-between">
+                    <!-- Shop Page Count -->
+                    <div class="shop-page-count">
+                        <p>Hiển thị 1-9 trong số 61 kết quả</p>
+                    </div>
+                    <!-- Search by Terms -->
+                    <div class="search_by_terms">
+                        <form action="/Shop/Index" method="get" class="form-inline ">
+                            @if (ViewBag.current_Cate != null)
+                            {
+                                <input hidden name="Category_Id" value="@ViewBag.current_Cate" />
+                            }
+                            @if (ViewBag.CurrentSize != null)
+                            {
+                                <input hidden name="size" value="@ViewBag.CurrentSize" />
+                            }
+
+                            <div class="md-form mb-3 mt-3">
+                                <input class="form-control" name="searchString" type="text" placeholder="Tìm kiếm" aria-label="Search">
+                                <button class="btn btn-danger" type="submit">Tìm kiếm</button>
+                            </div>
+
+
+                        </form>
+                        @{int count = (@ViewBag.CurrentSize == null) ? 5 : @ViewBag.CurrentSize;}
+                        <div class="search_by_terms">
+                            <select class="custom-select widget-title" id="sizeProduct">
+
+                                <option selected>Hiển thị: @count</option>
+                                <option value="5">5</option>
+                                <option value="7">7</option>
+                                <option value="9">9</option>
+                            </select>
+
+                            <span id="settingSize">
+                                <a class="btn btn-success" href="/Shop/Index?size=5">Chọn</a>
+                            </span>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <!-- Sidebar Area -->
+                <div class="col-12 col-md-4 col-lg-3">
+                    <div class="shop-sidebar-area">
+
+
+
+                        <!-- Shop Widget -->
+                        <div class="shop-widget catagory mb-50">
+                            <h4 class="widget-title">Danh mục</h4>
+                            <div class="widget-desc">
+                                <!-- Single Checkbox -->
+                                <div class="custom-control custom-checkbox  align-items-center mb-2">
+
+                                    <a class="custom-control-label" href="/Shop/Index?size=@ViewBag.CurrentSize&Category_Id=0">
+                                        Tất cả <span class="text-muted">
+                                            (@ViewBag.TotalProducts)
+                                        </span>
+                                    </a>
+
+                                </div>
+                                <!-- Single Checkbox -->
+
+
+                                @foreach (var item in ViewBag.categories)
+                                {
+                                    <!-- Single Checkbox -->
+                                    <div class="custom-control custom-checkbox  align-items-center mb-2">
+
+                                        <a class="custom-control-label" href="/Shop/Index?size=@ViewBag.CurrentSize&Category_Id=@item.Category_Id">
+                                            @item.Name
+                                        </a>
+
+                                    </div>
+                                    <!-- Single Checkbox -->
+                                }
+                            </div>
+                        </div>
+
+                        <!-- Shop Widget -->
+                        <div class="shop-widget sort-by mb-50">
+                            <h4 class="widget-title">Sắp xếp theo</h4>
+                            <div class="widget-desc">
+                                <!-- Single -->
+                                <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
+                                    <input type="checkbox" class="custom-control-input" id="customCheck7">
+                                    <label class="custom-control-label" for="customCheck7">Điểm đến mới</label>
+                                </div>
+                                <!-- Single Checkbox -->
+                                <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
+                                    <input type="checkbox" class="custom-control-input" id="customCheck8">
+                                    <label class="custom-control-label" for="customCheck8">Theo thứ tự bảng chữ cái, A-Z</label>
+                                </div>
+                                <!-- Single Checkbox -->
+                                <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
+                                    <input type="checkbox" class="custom-control-input" id="customCheck9">
+                                    <label class="custom-control-label" for="customCheck9">Theo thứ tự, Z-A</label>
+                                </div>
+                                <!-- Single Checkbox -->
+                                <div class="custom-control custom-checkbox d-flex align-items-center mb-2">
+                                    <input type="checkbox" class="custom-control-input" id="customCheck10">
+                                    <label class="custom-control-label" for="customCheck10">Giá: thấp đến cao</label>
+                                </div>
+                                <!-- Single Checkbox -->
+                                <div class="custom-control custom-checkbox d-flex align-items-center">
+                                    <input type="checkbox" class="custom-control-input" id="customCheck11">
+                                    <label class="custom-control-label" for="customCheck11">Giá: cao đến thấp</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- All Products Area -->
+                <div class="col-12 col-md-8 col-lg-9">
+                    <div class="shop-products-area">
+                        <div class="row">
+                            @{var check = ""; var price = ""; }
+                        @foreach (var item in Model)
+                        {
+                            <!-- Single Product Area -->
+                            <div class="col-12 col-sm-6 col-lg-4">
+                                <div class="single-product-area mb-50">
+                                    <!-- Product Image -->
+                                    <form name="cart_@item.Product_Id" method="post" action="/Cart/AddItem">
+                                        <a href="/Shop/Shop_Detail?id=@item.Product_Id"><img src="~/wwwroot/img/Images/@item.Avatar" alt="" style="width:200px; height:200px"></a>
+                                        <div class="form-group d-flex justify-content-between">
+                                            <input type="hidden" name="product_Id" value=@item.Product_Id />
+                                            <input type="number" name="quantity" value="1" id="qty_@item.Product_Id" class="form-control mr-1"
+                                                   style="width: 60px;">
+                                            <button type="button" data-quantity=@item.Quantity data-id=@item.Product_Id class="notaddtocart btn btn-warning btn-sm">Thêm vào giỏ </button>
+                                            <br />
+                                        </div>
+
+                                    </form>
+                                    <h6 id="message_@item.Product_Id" style="color:coral; margin-top:20px"></h6>
+                                    <!-- Product Info -->
+                                    @{check = (@item.Quantity <= 0) ? "Hết hàng" : "Còn Hàng";}
+                                    <div class="product-info mt-15 text-center">
+                                        <a href="/Shop/Shop_Detail?id=@item.Product_Id">
+                                            <p>@item.Name<span style="color:red; font:bolder">(@check)</span> </p>
+                                        </a>
+                                        <h6>
+                                            @{price = Convert.ToDecimal(@item.Price).ToString("#,# VNĐ");}@price
+                                        </h6>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+ 
+                    <br />
+                    Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount
+
+                    @Html.PagedListPager(Model, page => Url.Action("Index",
+                        new { page, size = ViewBag.CurrentSize, Category_Id = ViewBag.current_Cate, CurrentSearch = ViewBag.current_Filter }))
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+<!-- ##### Shop Area End ##### -->

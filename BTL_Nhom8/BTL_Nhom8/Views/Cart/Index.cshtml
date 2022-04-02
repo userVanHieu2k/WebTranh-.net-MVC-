@@ -1,0 +1,117 @@
+﻿@model BTL_Nhom8.Dto.Cart
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- ##### Breadcrumb Area Start ##### -->
+<div class="breadcrumb-area">
+    <!-- Top Breadcrumb Area -->
+    <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(/wwwroot/img/bg-img/24.jpg);">
+        <h2>Giỏ hàng</h2>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")"><i class="fa fa-home"></i> Trang chủ</a></li>
+                        <li class="breadcrumb-item"><a href="@Url.Action("Index", "Shop")"> Cửa hàng</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Giỏ hàng</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+@if (@ViewBag.Message == null)
+{
+    <!-- ##### Breadcrumb Area End ##### -->
+    <!-- ##### Cart Area Start ##### -->
+    <div class="cart-area section-padding-0-100 clearfix">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="cart-table clearfix">
+                        <button type="button" id="DeleteAllCartItem" class="btn btn-danger">Xóa tất cả</button>
+                        
+                        <table class="table table-responsive">
+                            <thead>
+                                <tr>
+                                    <th>Sản phẩm</th>
+                                    <th>Số lượng</th>
+                                    <th>Đơn giá</th>
+                                    <th>Thành tiền</th>
+                                    <th></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                
+                                    @{ var price = "";}
+                                    @foreach (var item in Model.cartLines)
+                                    {
+                                    <tr id="row_@item.productDto.Id" class="rowCartLine">
+                                        <td class="cart_product_img">
+                                            <a href="#"><img src="~/wwwroot/img/Images/@item.productDto.Avatar" alt="Product"></a>
+                                            <h5>@item.productDto.Name</h5>
+                                            <input id="product_Id" type="hidden" value="@item.productDto.Id" />
+                                        </td>
+                                        <td class="qty">
+                                            <div class="quantity ">
+                                                <span class="qty-minus" data-id="@item.productDto.Id"><i class="fa fa-minus" aria-hidden="true"></i></span>
+                                                <input type="number" id="@item.productDto.Id" class="qty-text" data-id="@item.productDto.Id" step="1" min="1" max="99" name="quantity" value="@item.quantity">
+                                                <span class="qty-plus" data-id="@item.productDto.Id"><i class="fa fa-plus" aria-hidden="true"></i></span>
+                                            </div>
+                                        </td>
+
+                                        <td class="price"><span>@{price = Convert.ToDecimal(item.productDto.Price).ToString("#,#");}@price</span></td>
+                                        <td class="total_price"><span id="tongtien_@item.productDto.Id">@{price = Convert.ToDecimal(item.getAmount()).ToString("#,#");}@price</span></td>
+                                        <td class="action" data-id="@item.productDto.Id"><a href="#"><i class="icon_close"></i></a></td>
+                                    </tr>
+                                     }
+                                 
+                                </tbody>
+                        </table>
+                        
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <!-- Coupon Discount -->
+                <div class="col-12 col-lg-6">
+                    <div class="coupon-discount mt-70">
+                        <h5>Giảm giá coupon</h5>
+                        <p>Phiếu giảm giá có thể được áp dụng trong giỏ hàng trước khi thanh toán.Thêm một mặt hàng đủ điều kiện từ gian hàng của người bán đã tạo mã phiếu giảm giá vào giỏ hàng của bạn. Nhấp vào nút "Áp dụng mã" màu xanh lá cây để thêm phiếu giảm giá vào đơn hàng của bạn. Tổng đơn đặt hàng sẽ cập nhật để chỉ ra khoản tiết kiệm cụ thể cho mã phiếu giảm giá đã nhập.</p>
+                        <form action="#" method="post">
+                            <input type="text" name="coupon-code" placeholder="Nhập mã phiếu giảm giá">
+                            <button type="submit">Áp dụng</button>
+                        </form>
+                    </div>
+                </div>
+                <form id="checkCartItem" action="/Checkout/Items_Error" method="post">
+                    <input type="hidden" name="CartItems" value="" />
+                </form>
+                <!-- Cart Totals -->
+                <div class="col-12 col-lg-6">
+                    <div class="cart-totals-area mt-70">
+                        
+                        <div class="checkout-btn">
+                            <button id="submitCartItem" class="btn alazea-btn w-100">Thủ tục thanh toán</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- ##### Cart Area End ##### -->
+}
+else
+{
+    <p style="color:red; font-size:xx-large; text-align:center;">@ViewBag.Message</p>
+}
+
+

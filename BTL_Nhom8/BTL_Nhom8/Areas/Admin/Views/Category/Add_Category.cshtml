@@ -1,0 +1,64 @@
+﻿@model BTL_Nhom8.Models.Category
+@{ ViewBag.Title = "Add_Category";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml"; }
+
+@using (Html.BeginForm())
+{
+@Html.AntiForgeryToken()
+                <div class="pcoded-content">
+                    <div class="pcoded-inner-content">
+                        <div class="main-body">
+                            <div class="page-wrapper">
+                                <h3 class="right__title">Thêm danh mục</h3>
+                                <br>
+                                <div class="page-body">
+                                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                                    <div class="form-group">
+                                        <label for="title">Tên danh mục (required)</label>
+                                        @* <input autocomplete="off" type="text" class="form-control" id="title"
+                                            placeholder="Tiêu đề" required="required" />*@
+                                        @Html.TextBoxFor(model => model.Name, htmlAttributes: new
+                                        {
+                                            @class = "form-control",
+                                            @autocomplete = "off",
+                                            @type = "text",
+                                            @id = "title",
+                                            @placeholder = "Tiêu đề",
+                                            @required = "required"
+                                        })
+                                        @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="detail_description">Mô tả (required)</label>
+                                        @* <textarea autocomplete="off" path="details" class="form-control summernote"
+                                            id="detail_description" rows="3" required="required"></textarea>*@
+                                        @Html.TextAreaFor(model => model.Description, htmlAttributes: new
+                                        {
+                                            @class = "form-control",
+                                            @autocomplete = "off",
+                                            @rows = "3",
+                                            @id = "detail_description",
+                                            @placeholder = "Mô tả",
+                                            @required = "required"
+                                        })
+                                        @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+                                    </div>
+                                    <a href="@Url.Action("Index", "Category")" class="btn btn-secondary active" role="button"
+                                       aria-pressed="true">Trở lại</a>
+                                    <button type="submit" class="btn btn-primary">Lưu</button>
+                                </div>
+
+                                <div id="styleSelector">
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>}
+@if (ViewBag.Error != null)
+{
+<br />
+                <div class="alert alert-danger" role="alert">@ViewBag.Error</div> } @*@section Scripts {
+                        @Scripts.Render("~/bundles/jqueryval")
+                    }*@
+

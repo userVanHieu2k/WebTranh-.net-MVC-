@@ -1,0 +1,139 @@
+﻿<header class="header-area">
+<header class="header-area">
+
+    <!-- ***** Top Header Area ***** -->
+    <div class="top-header-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="top-header-content d-flex align-items-center justify-content-between">
+                        <!-- Top Header Content -->
+                        <div class="top-header-meta">
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="infodeercreative@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i> <span>Email: infodeercreative@gmail.com</span></a>
+                            <a href="#" data-toggle="tooltip" data-placement="bottom" title="+1 234 122 122"><i class="fa fa-phone" aria-hidden="true"></i> <span>Liên hệ số: +1 234 122 122</span></a>
+                        </div>
+
+                        <!-- Top Header Content -->
+                        <div class="top-header-meta d-flex">
+                            @if (Session["HoTen"] != null)
+                            {
+                                <ul class="nav navbar-nav navbar-right">
+                                    <li><a>Xin chào, @Session["HoTen"] -  @Session["Email"]</a></li>
+
+                                </ul>
+                                <div class="language-dropdown">
+                                <div class="dropdown">
+                                    <button class="btn btn-secondary dropdown-toggle mr-30" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-user"></i></button>
+                                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                        <a class="dropdown-item" href="@Url.Action("Index", "Accounts")">Xem trang cá nhân</a>
+                                        <a class="dropdown-item" href="#">Cài đặt</a>
+                                        <a class="dropdown-item" href="@Url.Action("Logout","Home")">Đăng xuất</a>
+                                    </div>
+                                </div>
+                            </div>
+                                var count = (@Session["CartLineTotal"] == null) ? 0 : @Session["CartLineTotal"];
+                                <div class="cart">
+                                    <a href="@Url.Action("Index", "Cart")"><i class="fa fa-shopping-cart" aria-hidden="true"></i> <span>Giỏ hàng<span class="cart-quantity"></span><span id="giohang">(@count)</span></span></a>
+                                </div>
+
+                            }
+                            else
+                            {
+                                <!-- Login -->
+                                <div class="login">
+                                    <a href="@Url.Action("Login", "Home")"><i class="fa fa-user" aria-hidden="true"></i> <span>Đăng nhập</span></a>
+                                </div>
+                                <div class="cart">
+                                    <a href="@Url.Action("Index", "Cart")"><i class="fa fa-shopping-cart" aria-hidden="true"></i> <span>Giỏ hàng</span></a>
+                                </div>
+                            }
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ***** Navbar Area ***** -->
+    <div class="alazea-main-menu">
+        <div class="classy-nav-container breakpoint-off">
+            <div class="container">
+                <!-- Menu -->
+                <nav class="classy-navbar justify-content-between" id="alazeaNav">
+
+                    <!-- Nav Brand -->
+                    <a href="@Url.Action("Index", "Home")" class="nav-brand"><img src="~/wwwroot/img/core-img/logo.png" alt=""></a>
+
+                    <!-- Navbar Toggler -->
+                    <div class="classy-navbar-toggler">
+                        <span class="navbarToggler"><span></span><span></span><span></span></span>
+                    </div>
+
+                    <!-- Menu -->
+                    <div class="classy-menu">
+
+                        <!-- Close Button -->
+                        <div class="classycloseIcon">
+                            <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                        </div>
+
+                        <!-- Navbar Start -->
+                        <div class="classynav">
+                            <ul>
+                                <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                                <li>
+                                    <a href="#">Các trang</a>
+                                    <ul class="dropdown">
+                                        <li>@Html.ActionLink("Trang chủ", "Index", "Home")</li>
+                                        
+                                        <li>
+                                            <a href="">Cửa hàng</a>
+                                            <ul class="dropdown">
+                                                <li>
+                                                    @Html.ActionLink("Sản phẩm", "Index", "Shop")
+                                                </li>
+                                                <li>@Html.ActionLink("Chi tiết", "Shop_Detail", "Shop")</li>
+                                                <li><a href="@Url.Action("Index", "Cart")">Giỏ hàng</a></li>
+                                                @*<li><a href="#">Thủ tục thanh toán</a></li>*@
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("DanhMuc", "Home")">Tin tức</a>
+                                           
+                                        </li>
+                                        <li>
+                                            <a href="@Url.Action("Index","News") ">Bài đăng</a>
+                                            
+                                        </li>
+                                        <li><a href="#">Liên hệ</a></li>
+                                    </ul>
+                                </li>
+                                <li>@Html.ActionLink("Cửa hàng", "Index", "Shop")</li>
+                                <li>@Html.ActionLink("Tin tức", "DanhMuc", "Home")</li>
+                                <li><a href="#">Liên hệ</a></li>
+                            </ul>
+
+                            <!-- Search Icon -->
+                            <div id="searchIcon">
+                                <i class="fa fa-search" aria-hidden="true"></i>
+                            </div>
+
+                        </div>
+                        <!-- Navbar End -->
+                    </div>
+                </nav>
+
+                <!-- Search Form -->
+                <div class="search-form">
+                    <form action="#" method="get">
+                        <input type="search" name="search" id="search" placeholder="Nhập từ khóa &amp; ấn enter...">
+                        <button type="submit" class="d-none"></button>
+                    </form>
+                    <!-- Close Icon -->
+                    <div class="closeIcon"><i class="fa fa-times" aria-hidden="true"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

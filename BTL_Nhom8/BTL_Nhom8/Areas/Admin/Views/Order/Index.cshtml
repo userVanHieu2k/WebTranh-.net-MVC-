@@ -1,0 +1,74 @@
+﻿@model IEnumerable<BTL_Nhom8.Areas.Admin.Dto.OrderDto>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div class="pcoded-content">
+    <div class="pcoded-inner-content">
+        <div class="main-body">
+            <div class="page-wrapper">
+                <h3>Danh sách đơn đặt hàng</h3>
+                <div class="page-body">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Trang chủ</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">
+                                Danh sách đơn đặt hàng
+                            </li>
+                        </ol>
+                    </nav>
+
+                    <!-- <a class="btn btn-outline-primary mb-1" href="AddProduct.html" role="button">Add
+                        New</a> -->
+
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th scope="col">STT</th>
+                                <th class="col-2">Tên khách hàng</th>
+                                <th class="col-2">Ngày đặt hàng</th>
+                                <th class="col-2">Email</th>
+                                <th scope="col">Tổng tiền</th>
+                                <th class="col-3">Hành động</th>
+                                <th class="col-2">Trạng thái</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @{ int count = 1; var price = "";}
+                            @foreach (var item in Model)
+                            {
+
+                            <tr>
+                                <td>@count</td>
+                                <td>@item.Customer_Name</td>
+                                <td>@item.Order_Date</td>
+                                <td>@item.Customer_Email</td>
+                                <td>@{price = Convert.ToDecimal(item.Total_Amount).ToString("#,#");}@price</td>
+                                <td>
+                                    <a class="btn btn-primary" href="/Admin/Order/Order_Detail?orderId=@item.Order_Id" role="button"
+                                       style="line-height: 10px;">Chi tiết</a>
+                                    <a class="btn btn-danger" href="/Admin/Order/Order_Edit?orderId=@item.Order_Id" role="button"
+                                       style="line-height: 10px;">Sửa</a>
+
+
+                                    @{ count += 1;}
+                                </td>
+                                @{ var status = (@item.Status == false) ? "Đang chờ phê duyệt" : "Đã thanh toán";}
+                                <td>@status</td>
+
+
+                            </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div id="styleSelector">
+
+            </div>
+        </div>
+    </div>
+</div>
+

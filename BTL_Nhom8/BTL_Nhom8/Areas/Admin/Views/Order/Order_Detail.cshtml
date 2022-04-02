@@ -1,0 +1,115 @@
+﻿
+@{
+    ViewBag.Title = "Order_Detail";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    var Order = ViewBag.Order;
+}
+<div class="pcoded-content">
+    <div class="pcoded-inner-content">
+        <div class="main-body">
+            <div class="page-wrapper">
+                <h1 class="h3 text-gray-800">Chi tiết đơn hàng</h1>
+
+                <div class="panel-body mb-4">
+                    <a href="@Url.Action("Index", "Order")" class="btn btn-primary a-btn-slide-text">
+                        <i class="fas fa-arrow-circle-left"></i> <strong>Trở lại</strong>
+                    </a>
+                </div>
+                <div class="page-body">
+                    <form>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="customerName">Tên khách hàng</label> <input type="text"
+                                                                                        class="form-control" id="customerName"
+                                                                                        value="@Order.Customer_Name" readonly="readonly">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="customerPhone">Số điện thoại</label> <input type="tel"
+                                                                                        class="form-control" id="customerPhone"
+                                                                                        value="@Order.Customer_Phone" readonly="readonly">
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="inputEmail4">Email</label> <input type="email"
+                                                                              class="form-control" id="inputEmail4"
+                                                                              value="@Order.Customer_Email" readonly="readonly">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="inputAddress">Địa Chỉ</label> <input type="text"
+                                                                                 class="form-control" id="inputAddress"
+                                                                                 value="@Order.Customer_Address" readonly="readonly">
+                            </div>
+                        </div>
+
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="inputOrderDate">Ngày tạo</label> <input type="datetime"
+                                                                              class="form-control" id="inputOrderDate"
+                                                                              value="@Order.Order_Date" readonly="readonly">
+                            </div>
+                            @{ var status = (Order.Status == true) ? "Đã thanh toán" : "Đang chờ xử lý";}
+
+
+                            <div class="form-group col-md-6">
+                                <label for="inputStatus">Trạng thái</label> <input type="text"
+                                                                                 class="form-control" id="inputStatus"
+                                                                                 value="@status" readonly="readonly">
+                            </div>
+                        </div>
+
+                        <div class="card shadow mb-4">
+                            <div class="card-header py-3">
+                                <h6 class="m-0 font-weight-bold text-primary">Danh sách sản phẩm</h6>
+                            </div>
+                            <div class="card-body">
+                                <div class="table-responsive">
+                                    <table class="table table-bordered" width="100%"
+                                           cellspacing="0">
+                                        <thead>
+                                            <tr>
+                                                <th>STT</th>
+                                                <th>Tên sản phẩm</th>
+                                                <th>Giá</th>
+                                                <th>Số lượng</th>
+                                                <th>Tổng tiền</th>
+                                                <!-- <th>Action</th> -->
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @{ int count = 1; var price = "";}
+                                            @foreach (var item in Model)
+                                            {
+                                                <tr>
+                                                    <td>@count</td>
+                                                    <td>@item.Product_Name</td>
+                                                    <td>@{price = Convert.ToDecimal(item.Product_Price).ToString("#,#");}@price</td>
+                                                    <td>@item.Product_Quantity</td>
+                                                    <td>@{price = Convert.ToDecimal(item.Product_Price * item.Product_Quantity).ToString("#,#");}@price</td>
+                                                </tr>
+                                                count += 1;
+                                            }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="total">Tổng tiền phải thanh toán:</label> <label style="color: red;">
+                                @{ price = Convert.ToDecimal(Order.Total_Amount).ToString("#,# VNĐ");}@price
+                            </label>
+                        </div>
+
+                    </form>
+                </div>
+            </div>
+
+            <div id="styleSelector">
+
+            </div>
+        </div>
+    </div>
+</div>
+

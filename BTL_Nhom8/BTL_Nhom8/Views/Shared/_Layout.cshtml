@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <!-- Title -->
+    <title>Alazea - Gardening &amp; Nhóm 8</title>
+
+    <!-- Favicon -->
+    <link rel="icon" href="~/wwwroot/img/core-img/favicon.ico">
+
+    <!-- Core Stylesheet -->
+    <link rel="stylesheet" href="~/wwwroot/style.css">
+
+    <link rel="stylesheet" type="text/css" href="~/Areas/Admin/Assets/css/bootstrap/css/bootstrap.min.css">
+    <link rel="icon" href="~/Areas/Admin/Assets/images/favicon.ico" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,800" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="~/Areas/Admin/Assets/icon/icofont/css/icofont.css">
+
+
+    <script src="https://kit.fontawesome.com/09f0b2d0f8.js" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body>
+    <!-- Preloader -->
+    <div class="preloader d-flex align-items-center justify-content-center">
+        <div class="preloader-circle"></div>
+        <div class="preloader-img">
+            <img src="~/wwwroot/img/core-img/leaf.png" alt="">
+        </div>
+    </div>
+
+    <!-- ##### Header Area Start ##### -->
+    @{Html.RenderPartial("_Menu");}
+    <!-- ##### Header Area End ##### -->
+    @RenderBody()
+
+    @{Html.RenderPartial("_Footer");}
+    <!-- ##### All Javascript Files ##### -->
+    <!-- jQuery-2.2.4 js -->
+    <script src="~/wwwroot/js/jquery/jquery-2.2.4.min.js"></script>
+    <!-- Popper js -->
+    <script src="~/wwwroot/js/bootstrap/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="~/wwwroot/js/bootstrap/bootstrap.min.js"></script>
+    <!-- All Plugins js -->
+    <script src="~/wwwroot/js/plugins/plugins.js"></script>
+    <!-- Active js -->
+    <script src="~/wwwroot/js/active.js"></script>
+    <script src="~/wwwroot/js/cart.js"></script>
+    <script src="~/wwwroot/js/shop.js"></script>
+
+</body>
+
+</html>

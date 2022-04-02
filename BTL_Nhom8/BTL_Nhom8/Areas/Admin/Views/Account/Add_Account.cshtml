@@ -1,0 +1,124 @@
+﻿@model BTL_Nhom8.Models.Account
+@{
+    ViewBag.Title = "Add_Account";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    var list = ViewBag.RoleID;
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="pcoded-content">
+        <div class="pcoded-inner-content">
+            <div class="main-body">
+                <div class="page-wrapper">
+                    <h3 class="right__title">Thêm tài khoản</h3>
+                    <br>
+                    <div class="page-body">
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        <div class="form-group">
+                            <label for="title">Tên người dùng (required)</label>
+                            @*<input autocomplete="off" type="text" class="form-control" id="title"
+                                placeholder="Tiều đề" required="required" />*@
+                            @Html.TextBoxFor(model => model.Username, htmlAttributes: new
+                                        {
+                                            @class = "form-control",
+                                            @autocomplete = "off",
+                                            @type = "text",
+                                            @id = "title",
+                                            @placeholder = "Tên người dùng",
+                                            @required = "required"
+                                        })
+                            @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <label for="title">Mật khẩu (required)</label>
+                            @*<input autocomplete="off" type="text" class="form-control" id="title"
+                                placeholder="Tiều đề" required="required" />*@
+                            @Html.TextBoxFor(model => model.Password, htmlAttributes: new
+                                        {
+                                            @class = "form-control",
+                                            @autocomplete = "off",
+                                            @type = "password",
+                                            @id = "password",
+                                            @placeholder = "Mật khẩu",
+                                            @required = "required"
+                                        })
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <label for="title">Họ và tên (required)</label>
+                            @*<input autocomplete="off" type="text" class="form-control" id="title"
+                                placeholder="Tiều đề" required="required" />*@
+                            @Html.TextBoxFor(model => model.Customer_Name, htmlAttributes: new
+                                        {
+                                            @class = "form-control",
+                                            @autocomplete = "off",
+                                            @type = "text",
+                                            @id = "Name",
+                                            @placeholder = "Họ tên",
+                                            @required = "required"
+                                        })
+                            @Html.ValidationMessageFor(model => model.Customer_Name, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <label for="title">Email (required)</label>
+                            @*<input autocomplete="off" type="text" class="form-control" id="title"
+                                placeholder="Tiều đề" required="required" />*@
+                            @Html.TextBoxFor(model => model.Email, htmlAttributes: new
+                                        {
+                                            @class = "form-control",
+                                            @autocomplete = "off",
+                                            @type = "email",
+                                            @id = "Email",
+                                            @placeholder = "Email",
+                                            @required = "required"
+                                        })
+                            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <label for="category">Quyền (required)</label>
+                            @*<select path="categories.id" class="form-control" id="category">
+                                <option value="Cây Thủy sinh">Administrator</option>
+                                <option value="Cây Phong Hàn">Manager</option>
+                                <select>*@
+                            @*<select path="categories.id" class="form-control" id="category">
+                                    @foreach (var item in list)
+                                    {
+                                        <option value="">@item</option>
+                                    }
+                                </select>*@
+                            <select name="tenDM" class="form-control">
+                                @*<option value="0">Danh mục</option>*@
+                                @{
+                                    foreach (var str in list)
+                                    {
+                                        <option value="@str.Role_Id">@str.Name</option>
+                                    }
+                                }
+                            </select>
+                            @Html.ValidationMessageFor(model => model.Roles_Account, "", new { @class = "text-danger" })
+                        </div>
+                        <a href="@Url.Action("Index", "Account")" class="btn btn-secondary active" role="button"
+                           aria-pressed="true">Trở lại </a>
+                        <button type="submit" class="btn btn-primary">Lưu</button>
+                    </div>
+
+                    <div id="styleSelector">
+
+                    </div>
+                </div>
+
+                <div id="styleSelector">
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+}
+@if (ViewBag.Error != null)
+{
+    <br />
+    <div class="alert alert-danger" role="alert">@ViewBag.Error</div>
+}
+

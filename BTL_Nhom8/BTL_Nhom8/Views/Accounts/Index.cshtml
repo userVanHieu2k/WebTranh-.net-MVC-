@@ -1,0 +1,63 @@
+﻿@model BTL_Nhom8.Models.Account
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<!-- ##### Breadcrumb Area Start ##### -->
+<div class="breadcrumb-area">
+    <!-- Top Breadcrumb Area -->
+    <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(/wwwroot/img/bg-img/24.jpg);">
+        <h2>Thông tin cá nhân</h2>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")"><i class="fa fa-home"></i> Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Cá nhân</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ##### Breadcrumb Area End ##### -->
+<!-- ##### Contact Area Info Start ##### -->
+<div class="contact-area-info section-padding-0-100">
+    <div class="container">
+        <h3 style="font-weight: bolder;">Thông tin cá nhân</h3>
+        <br>
+        <div class="contact-area-info section-padding-0-100">
+            <div class="container">
+                <div class="row align-items-center justify-content-between">
+                    <!-- Contact Thumbnail -->
+                    <div class="col-12 col-md-6">
+                        <div class="contact--thumbnail">
+                            <img src="~/wwwroot/img/bg-img/25.jpg" alt="">
+                        </div>
+                    </div>
+
+                    <div class="col-12 col-md-5">
+                        <!-- Section Heading -->
+                        <div class="section-heading">
+                            <h2>Tài khoản của bạn</h2>
+                            <!-- <p>We are improving our services to serve you better.</p> -->
+                        </div>
+                        <!-- Contact Information -->
+                        <div class="contact-information">
+                            <p><span>@Html.DisplayNameFor(model => model.Username): </span> @Html.DisplayFor(model => model.Username)</p>
+                            <p><span>@Html.DisplayNameFor(model => model.Customer_Name): </span> @Html.DisplayFor(model => model.Customer_Name)</p>
+                            <p><span>@Html.DisplayNameFor(model => model.Email):</span> @Html.DisplayFor(model => model.Email)</p>
+                        </div>
+                        <br />
+                        <a class="btn alazea-btn mr-30" href="@Url.Action("Edit", "Accounts", new { id=Session["idUser"] })">Cập nhật</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ##### Contact Area Info End ##### -->

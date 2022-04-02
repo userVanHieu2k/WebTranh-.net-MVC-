@@ -1,0 +1,87 @@
+﻿@model BTL_Nhom8.Models.News
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="pcoded-content">
+    <div class="pcoded-inner-content">
+        <div class="main-body">
+            <div class="page-wrapper">
+                <h3 class="right__title">Sửa Bài Viêt</h3>
+                <br>
+                <div class="page-body">
+                    <nav aria-label="breadcrumb">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Trang chủ</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">
+                                Sửa Bài Viết
+                            </li>
+                        </ol>
+                    </nav>
+
+                    @using (Html.BeginForm("Edit", "News", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-horizontal">
+                            <hr />
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            @Html.HiddenFor(model => model.id)
+
+                            <div class="form-group">
+                                <label class="control-label col-md-2">Tiêu đề</label>
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.title, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.title, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="control-label col-md-2">Nội dung</label>
+                                <div class="col-md-10">
+                                    @Html.EditorFor(model => model.content, new { htmlAttributes = new { @class = "form-control" } })
+                                    @Html.ValidationMessageFor(model => model.content, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <img src="~/wwwroot/img/news/@Model.img" id="output" class="img-rounded" alt="Anh" width="150" height="100" />
+                                <p><label for="ufile" style="cursor: pointer">Chọn file ảnh</label></p>
+                                <input name="ImageFile" value="abc" id="ufile" type="file" style="display: none;" onchange="loadFile(event)" />
+                                <input type="hidden" name="img" value="123" />
+                            </div>
+
+
+
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <input type="submit" value="Save" class="btn btn-default" />
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                    <div>
+                        @Html.ActionLink("Back to List", "Index")
+                    </div>
+                </div>
+            </div>
+
+            <div id="styleSelector">
+
+            </div>
+        </div>
+    </div>
+</div>
+@if (ViewBag.Error != null)
+{
+    <br />
+    <div class="alert alert-danger" role="alert">@ViewBag.Error</div>}
+<script>
+    var loadFile = function (event) {
+        var image = document.getElementById('output');
+        image.src = URL.createObjectURL(event.target.files[0]);
+    };
+</script>

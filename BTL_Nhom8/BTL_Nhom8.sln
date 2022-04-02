@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTL_Nhom8", "BTL_Nhom8\BTL_Nhom8.csproj", "{84637150-3DCA-4CE1-9D73-C7F21B11F268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84637150-3DCA-4CE1-9D73-C7F21B11F268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84637150-3DCA-4CE1-9D73-C7F21B11F268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84637150-3DCA-4CE1-9D73-C7F21B11F268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84637150-3DCA-4CE1-9D73-C7F21B11F268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {088CB8AE-9B9C-4263-92FB-D3B2E1804B10}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1123 @@
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+E:\source\repos\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_QLBH\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+C:\Users\Admin\Desktop\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\Administrator\Documents\Zalo Received Files\Plus\BLT_Nhom8\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+C:\Users\Administrator\Desktop\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\Admin\Downloads\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\Administrator\Documents\Zalo Received Files\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+C:\Users\nguye\Downloads\asp\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\Hoa\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+D:\webs\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\ANHQUAN\Downloads\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+C:\Users\ANHQUAN\Pictures\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll.config
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\BTL_Nhom8.pdb
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.exe.config
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csc.rsp
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.exe.config
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\csi.rsp
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Managed.Core.targets
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.AppContext.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Collections.Immutable.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Console.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Globalization.Calendars.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Http.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Net.Sockets.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Reflection.Metadata.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.ValueTuple.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XmlDocument.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.exe.config
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\vbc.rsp
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\roslyn\VBCSCompiler.exe.config
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.Web.Infrastructure.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\WebGrease.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\EntityFramework.SqlServer.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\PagedList.Mvc.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Helpers.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Mvc.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Optimization.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.Razor.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Deployment.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\System.Web.WebPages.Razor.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Newtonsoft.Json.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Antlr3.Runtime.pdb
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CoreCompileInputs.cache
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.CopyComplete
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.dll
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.pdb
+D:\test\Nhom8_SourceCode\BTL_Nhom8\BTL_Nhom8\obj\Debug\BTL_Nhom8.csproj.AssemblyReference.cache

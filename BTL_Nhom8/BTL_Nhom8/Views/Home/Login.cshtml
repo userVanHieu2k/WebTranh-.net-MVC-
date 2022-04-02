@@ -1,0 +1,120 @@
+﻿@model BTL_Nhom8.Dto.AccountDto
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="theme-loader">
+    <div class="ball-scale">
+        <div class='contain'>
+            <div class="ring"><div class="frame"></div></div>
+            <div class="ring"><div class="frame"></div></div>
+            <div class="ring"><div class="frame"></div></div>
+            <div class="ring"><div class="frame"></div></div>
+            <div class="ring"><div class="frame"></div></div>
+            <div class="ring"><div class="frame"></div></div>
+            <div class="ring"><div class="frame"></div></div>
+            <div class="ring"><div class="frame"></div></div>
+            <div class="ring"><div class="frame"></div></div>
+            <div class="ring"><div class="frame"></div></div>
+        </div>
+    </div>
+</div>
+<!--</section>-->
+<div class="breadcrumb-area">
+    <!-- Top Breadcrumb Area -->
+    <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center"
+         style="background-image: url(/wwwroot/img/bg-img/24.jpg);">
+        <h2>Đăng nhập</h2>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        @* <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")"><i class="fa fa-home"></i> Đăng nhập</a></li>*@
+                        @* <li class="breadcrumb-item active" aria-current="page">Đăng nhập</li>*@
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="shop-page section-padding-0-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12">
+                <!-- Authentication card start -->
+                <div class="login-card card-block auth-body mr-auto ml-auto">
+                    @using (Html.BeginForm("Login", "Home", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="form-horizontal">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <div class="text-center">
+                                <img src="~/Areas/Admin/Assets/images/auth/logo-dark.png" alt="logo.png">
+                            </div>
+                            <div class="auth-box" style="width: 600px; margin-left: 270px;">
+                                <div class="row m-b-20">
+                                    <div class="col-md-12">
+                                        <h3 class="text-left txt-primary">Đăng nhập</h3>
+                                    </div>
+                                </div>
+                                <hr />
+                                <div class="input-group">
+                                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @placeholder = "Tên Email", @autofocus = "autofocus" })
+                                </div>
+                                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+
+
+                                <div class="input-group" style="margin-top: 10px;">
+                                    @Html.TextBoxFor(model => model.Password, new { @class = "form-control", @placeholder = "Mật khẩu", @autofocus = "autofocus", @type = "password" })
+                                </div>
+                                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                                    
+                                <div class="alert-danger" style="font-size: small; margin-top: 10px; line-height:50px;">@ViewBag.Error</div>
+                                <div class="row m-t-25 text-left" style="margin-top: 10px;">
+                                    <div class="col-sm-7 col-xs-12">
+                                        <div class="checkbox-fade fade-in-primary">
+                                            <label>
+                                                <input type="checkbox" value="">
+                                                @*<span class="cr"><i class="cr-icon icofont icofont-ui-check txt-primary"></i></span>*@
+                                                <span class="text-inverse">Nhớ mật khẩu</span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-5 col-xs-12 forgot-phone text-right">
+                                        <a href="auth-reset-password.html" class="text-right f-w-600 text-inverse"> Quên mật khẩu?</a>
+                                    </div>
+                                </div>
+                                <div class="row m-t-30">
+                                    <div class="col-md-12">
+                                        <button type="submit" class="btn btn-primary btn-md btn-block waves-effect text-center m-b-20">Đăng nhập</button>
+                                        <h4 class="text-center">
+                                            <a href="@Url.Action("Register", "Home")">Tạo tài khoản</a>
+                                        </h4>
+                                    </div>
+                                </div>
+                                <hr />
+                                <div class="row">
+                                    <div class="col-md-10">
+                                        <p class="text-inverse text-left m-b-0" style="color: rgb(13, 102, 102);">ALEZEA.COM</p>
+                                        <p class="text-inverse text-left"><b>Đăng nhập dễ dàng, nhanh gọn</b></p>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <img src="~/Areas/Admin/Assets/images/auth/Logo-small-bottom.png" alt="small-logo.png">
+                                    </div>
+                                </div>
+
+                            </div>
+                            </div>
+                            }
+
+                            <!-- end of form -->
+                        </div>
+                        <!-- Authentication card end -->
+                    </div>
+            <!-- end of col-sm-12 -->
+        </div>
+        <!-- end of row -->
+    </div>
+</section>

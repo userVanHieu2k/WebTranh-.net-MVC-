@@ -1,0 +1,66 @@
+﻿@model IEnumerable<BTL_Nhom8.Models.News>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="breadcrumb-area">
+    <!-- Top Breadcrumb Area -->
+    <div class="top-breadcrumb-area bg-img bg-overlay d-flex align-items-center justify-content-center" style="background-image: url(/wwwroot/img/bg-img/24.jpg);">
+        <h2>Bài đăng</h2>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")"><i class="fa fa-home"></i> Trang chủ</a></li>
+                        <li class="breadcrumb-item"><a href="@Url.Action("Index", "Shop")"> Cửa hàng</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Bài đăng</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            Tiêu đề
+        </th>
+        <th>
+            Nội dung
+        </th>
+        <th>
+            Ảnh
+        </th>
+        <th>
+            Cập nhật
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.title)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.content)
+    </td>
+    <td>
+        @{
+            string ImagePath = "~/wwwroot/img/images/" + item.img;
+
+        } <img src="@Url.Content(ImagePath)" width="100" height="180" class="img-thumbnail" />
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.update_at)
+    </td>
+</tr>
+}
+
+</table>
